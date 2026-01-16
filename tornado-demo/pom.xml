@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>demo</groupId>
-    <artifactId>tornado-demo</artifactId>
+    <artifactId>tornado-demo-matrix</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
